@@ -1,0 +1,257 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Udipta De Dhaba</title>
+<link rel="stylesheet" href="recipe-project-style.css">
+<link rel="stylesheet" href="right.css">
+
+
+
+</head>
+<body>
+    <div class="container">
+        <div class="heading">
+            <div>
+               <h3>Udipta   De   Dhaba</h3> 
+            </div>
+             <div class="h2">
+                <a href="#">Home</a>
+                <a href="#">About</a>
+                <a href="#">Order</a>
+            </div>
+            
+
+        </div>
+
+        <div class="bg">
+            <div class="content">
+                <div class="leftbox">
+                  <div class="part1">
+                    <h1>Gulab Jamun</h1>
+                  </div>  
+
+                    <div class="part2">
+                      <div class="h3">
+                        <h3>Ingredients</h3>
+                      </div>
+                    <ol> <li>Sugar</li>
+                        <li>Oil</li> 
+                        <li>Bread</li>
+                    </ol>
+                    </div>
+
+                    <div class="part3">
+                        <div class="h3">
+                            <h3>Recipe</h3>
+                        </div>
+                       <ul>
+                        <li>Lorem ipsum dolor sit amet.</li>
+                        <li>Lorem ipsum dolor sit amet.</li>
+                        <li>Lorem ipsum dolor sit amet.</li>
+                       </ul>
+                    </div>
+
+                </div>
+                <div class="rightbox">
+                    <div class="pic">
+                        <img src="julab.jpg" alt="">
+                        <!-- <img id="gulab" src="gulabjamun.jpg" alt=""> -->
+                    </div>
+                    <div class="overlay">
+                        <span>click here to buy</span>
+                    </div>
+                </div>
+            </div>
+
+
+
+            <div class="content">
+                <div class="leftbox">
+                  <div class="part1">
+                    <h1>Barfi</h1>
+                  </div>  
+
+                    <div class="part2">
+                      <div class="h3">
+                        <h3>Ingredients</h3>
+                      </div>
+                    <ol><li>Sugar</li>
+                        <li>Milk</li> 
+                        <li>Bread</li>
+                    </ol>
+                    </div>
+
+                    <div class="part3">
+                        <div class="h3">
+                            <h3>Recipe</h3>
+                        </div>
+                       <ul>
+                        <li>Lorem ipsum dolor sit amet.</li>
+                        <li>Lorem ipsum dolor sit amet.</li>
+                        <li>Lorem ipsum dolor sit amet.</li>
+                       </ul>
+                    </div>
+
+                </div>
+                <div class="rightbox">
+                    <div class="pic">
+                        <img src="barfi.jpg" alt="">
+                        <!-- <img id="gulab" src="gulabjamun.jpg" alt=""> -->
+                    </div>
+                    <div class="overlay">
+                        <span>click here to buy</span>
+                    </div>
+                </div>
+            </div>
+
+
+
+
+            <div class="content">
+                <div class="leftbox">
+                  <div class="part1">
+                    <h1>Khichdi</h1>
+                  </div>  
+
+                    <div class="part2">
+                      <div class="h3">
+                        <h3>Ingredients</h3>
+                      </div>
+                    <ol><li>Rice </li>
+                        <li>Dal</li> 
+                        <li>Ghee</li>
+                    </ol>
+                    </div>
+
+                    <div class="part3">
+                        <div class="h3">
+                            <h3>Recipe</h3>
+                        </div>
+                       <ul>
+                        <li>Lorem ipsum dolor sit amet.</li>
+                        <li>Lorem ipsum dolor sit amet.</li>
+                        <li>Lorem ipsum dolor sit amet Lorem ipsum dolor sit.</li>
+                       </ul>
+                    </div>
+
+                </div>
+                <div class="rightbox">
+                    <div class="pic">
+                        <img src="khichdi.jpg" alt="">
+                        <!-- <img id="gulab" src="gulabjamun.jpg" alt=""> -->
+                    </div>
+                    <div class="overlay">
+                        <span>click here to buy</span>
+                    </div>
+                </div>
+            </div>
+
+
+
+            <div class="content">
+                <div class="leftbox">
+                  <div class="part1">
+                    <h1>Protein Shake</h1>
+                  </div>  
+
+                    <div class="part2">
+                      <div class="h3">
+                        <h3>Ingredients</h3>
+                      </div>
+                    <ol><li>Protein </li>
+                        <li>Milk</li> 
+                        <li>testosterone</li>
+                    </ol>
+                    </div>
+
+                    <div class="part3">
+                        <div class="h3">
+                            <h3>Recipe</h3>
+                        </div>
+                       <ul>
+                        <li>Lorem ipsum dolor sit amet.</li>
+                        <li>Lorem ipsum dolor sit amet.</li>
+                        <li>Lorem ipsum dolor sit amet.</li>
+                       </ul>
+                    </div>
+
+                </div>
+                <div class="rightbox">
+                    <div class="pic">
+                        <img src="body.jpg" alt="">
+                        <!-- <img id="gulab" src="gulabjamun.jpg" alt=""> -->
+                    </div>
+                    <div class="overlay">
+                        <span>click here to buy</span>
+                    </div>
+                </div>
+            </div>
+
+
+
+            <div class="content">
+                <div class="leftbox">
+                  <div class="part1">
+                    <h1>Wine-Beer</h1>
+                  </div>  
+
+                    <div class="part2">
+                      <div class="h3">
+                        <h3>Ingredients</h3>
+                      </div>
+                    <ol><li>Wine</li>
+                        <li>Beer</li> 
+                        <li>Lemon</li>
+                    </ol>
+                    </div>
+
+                    <div class="part3">
+                        <div class="h3">
+                            <h3>Recipe</h3>
+                        </div>
+                       <ul>
+                        <li>Lorem ipsum dolor sit amet.</li>
+                        <li>Lorem ipsum dolor sit amet.</li>
+                        <li>Lorem ipsum dolor sit amet.</li>
+                       </ul>
+                    </div>
+
+                </div>
+                <div class="rightbox">
+                    <div class="pic">
+                        <img src="wine-beer.jpg" alt="">
+                        <!-- <img id="gulab" src="gulabjamun.jpg" alt=""> -->
+                    </div>
+                    <div class="overlay">
+                        <span>click here to buy</span>
+                    </div>
+                </div>
+            </div>
+
+
+
+
+
+
+
+
+        </div>
+
+        <div class="footer">
+            &copy; copyright All Rights Reserved
+
+        </div>
+
+
+
+
+    </div>
+
+
+
+
+
+</body>
+</html>
